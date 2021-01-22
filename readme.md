@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá me chamo João Pedro dos Santos Rosa (Jutape) e sou desenvolvedor <strong>desenvolvedor Front-end e Back-end</strong>.<br>
+  Olá me chamo João Pedro dos Santos Rosa (Jutape) e sou <strong>desenvolvedor Front-end e Back-end</strong>.<br>
   Atualmente atuo como Engenheiro de backend jr na Itau unibanco
 </p>
 
