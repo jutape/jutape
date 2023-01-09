@@ -2,11 +2,11 @@
 
 <p align="left"> 
   Olá me chamo João Pedro dos Santos Rosa (Jutape), sou formado em Ciências da computação e atuo como <strong>desenvolvedor Front-end e Back-end</strong>.<br>
-  Atualmente atuo como Engenheiro de backend jr na Itau unibanco.
+  Atualmente atuo como Engenheiro de backend Pl na Itau unibanco.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, JavaScript, Python, Java, Node.JS.</strong>
+  🦄 Linguagens: <strong>HTML, CSS, JavaScript, Python, Java, Node.JS, Google cloud e AWS.</strong>
 </p>
 
 <p align="left">
