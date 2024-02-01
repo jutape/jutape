@@ -15,6 +15,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The concept of “tell don’t ask”: Communicating instead of Inquiring ️.](https://jutape.medium.com/the-concept-of-tell-dont-ask-communicating-instead-of-inquiring-%EF%B8%8F-a040ba3cb240?source=rss-83c928acafbb------2)
+- [Guide to Opening an Excellent Pull Request/Merge Request: Best Practices and Description Template](https://jutape.medium.com/guide-to-opening-an-excellent-pull-request-merge-request-best-practices-and-description-template-110d3379e2ee?source=rss-83c928acafbb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
